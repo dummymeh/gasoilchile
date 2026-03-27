@@ -1,0 +1,355 @@
+{
+  "month": 3,
+  "discounts": {
+    "monday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$100",
+        "cardName": "Banco Estado",
+        "description": "Válido pagando con tarjetas Banco Estado en estaciones adheridas. Revisa topes y vigencia antes de cargar.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$50",
+        "cardName": "Santander",
+        "description": "Descuento en estaciones Shell participantes pagando con tarjetas Santander. Beneficio sujeto a condiciones de la promoción.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$35",
+        "cardName": "Banco de Chile",
+        "description": "Promoción disponible en estaciones Aramco adheridas usando tarjetas Banco de Chile. Verifica cupos y horarios.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$90",
+        "cardName": "Tenpo",
+        "description": "Descuento por litro válido con Tenpo en estaciones Copec seleccionadas. Puede requerir activación previa.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$40",
+        "cardName": "Mach",
+        "description": "Beneficio válido pagando con Mach en estaciones Shell adheridas. Revisa topes y días de aplicación.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$25",
+        "cardName": "Falabella",
+        "description": "Promoción en Aramco para clientes Falabella. Sujeta a términos, stock promocional y estaciones participantes.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "tuesday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$120",
+        "cardName": "Santander",
+        "description": "Descuento especial en Copec pagando con Santander. Beneficio sujeto a tope mensual.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$70",
+        "cardName": "Banco de Chile",
+        "description": "Promoción válida en Shell con tarjetas Banco de Chile. Revisa vigencia y estaciones adheridas.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$40",
+        "cardName": "Banco Estado",
+        "description": "Descuento disponible en estaciones Aramco para pagos con Banco Estado. Condiciones pueden variar por campaña.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$85",
+        "cardName": "Falabella",
+        "description": "Beneficio válido en Copec con medios de pago Falabella. Revisa topes y compatibilidad con otras promociones.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$55",
+        "cardName": "Tenpo",
+        "description": "Descuento por litro para pagos con Tenpo en Shell. Puede requerir cupón o campaña activa.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$30",
+        "cardName": "Mach",
+        "description": "Promoción en Aramco válida con Mach en estaciones seleccionadas. Sujeta a restricciones del emisor.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "wednesday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$110",
+        "cardName": "BCI",
+        "description": "Promoción de mitad de semana en Copec pagando con tarjetas BCI. Revisa topes por cliente.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$60",
+        "cardName": "Itaú",
+        "description": "Descuento válido en estaciones Shell adheridas usando tarjetas Itaú. Beneficio sujeto a términos y vigencia.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$45",
+        "cardName": "Mercado Pago",
+        "description": "Promoción de prueba para pagos con Mercado Pago en Aramco. Verifica estaciones participantes.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$75",
+        "cardName": "Banco de Chile",
+        "description": "Descuento válido en Copec usando tarjetas Banco de Chile. Puede haber restricción por horario.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$35",
+        "cardName": "Falabella",
+        "description": "Promoción Shell para clientes Falabella. Revisa cupos y condiciones antes de usar el beneficio.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$20",
+        "cardName": "Tenpo",
+        "description": "Descuento dummy para pruebas visuales con Tenpo en Aramco. Puede requerir activación del beneficio.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "thursday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$95",
+        "cardName": "Banco de Chile",
+        "description": "Promoción disponible en Copec para clientes Banco de Chile. Verifica términos y estaciones adheridas.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$65",
+        "cardName": "Banco Estado",
+        "description": "Descuento en estaciones Shell seleccionadas pagando con Banco Estado. Sujeto a vigencia y topes.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$50",
+        "cardName": "Santander",
+        "description": "Beneficio disponible en Aramco usando tarjetas Santander. Revisa restricciones y cobertura.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$70",
+        "cardName": "Mach",
+        "description": "Promoción dummy en Copec para pagos con Mach. Puede requerir campaña activa.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$45",
+        "cardName": "Tenpo",
+        "description": "Descuento de prueba con Tenpo en Shell. Revisa topes semanales y estaciones participantes.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$30",
+        "cardName": "BCI",
+        "description": "Promoción válida en Aramco con tarjetas BCI. Beneficio sujeto a condiciones comerciales.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "friday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$130",
+        "cardName": "BCI",
+        "description": "Promoción de fin de semana en Copec pagando con BCI. Revisa topes por cliente y vigencia.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$65",
+        "cardName": "Falabella",
+        "description": "Beneficio en Shell para clientes Falabella. Puede estar sujeto a cupos promocionales.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$70",
+        "cardName": "Banco de Chile",
+        "description": "Promoción de viernes en Aramco usando Banco de Chile. Revisa estaciones adheridas.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$95",
+        "cardName": "Santander",
+        "description": "Descuento en Copec para pagos con Santander. Vigencia limitada a clientes seleccionados.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$25",
+        "cardName": "Mercado Pago",
+        "description": "Cupón de prueba en Shell con Mercado Pago. Beneficio sujeto a condiciones del medio de pago.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$40",
+        "cardName": "Tenpo",
+        "description": "Promoción válida en Aramco con Tenpo. Revisa topes y campañas activas antes de cargar.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "saturday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$80",
+        "cardName": "Falabella",
+        "description": "Promoción de sábado válida en Copec usando tarjetas Falabella. Sujeta a restricciones de la campaña.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$55",
+        "cardName": "BCI",
+        "description": "Descuento válido en estaciones Shell adheridas con BCI. Revisa términos y topes.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$35",
+        "cardName": "Itaú",
+        "description": "Beneficio disponible en Aramco pagando con Itaú. Revisa estaciones participantes y vigencia.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$60",
+        "cardName": "Tenpo",
+        "description": "Promoción dummy para pruebas de sábado con Tenpo en Copec. Puede requerir activación previa.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$30",
+        "cardName": "Mach",
+        "description": "Descuento en Shell usando Mach. Beneficio sujeto a topes semanales y vigencia de la campaña.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$20",
+        "cardName": "Banco Estado",
+        "description": "Promoción válida en Aramco para pagos con Banco Estado. Verifica términos antes de cargar.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ],
+    "sunday": [
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$75",
+        "cardName": "Santander",
+        "description": "Descuento dominical en Copec para clientes Santander. Beneficio sujeto a topes y vigencia.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$45",
+        "cardName": "Banco Estado",
+        "description": "Promoción válida en Shell pagando con Banco Estado. Revisa términos y cobertura del beneficio.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$50",
+        "cardName": "Falabella",
+        "description": "Descuento en Aramco para clientes Falabella. Puede requerir campaña activa o cupón asociado.",
+        "offerURL": "https://www.aramco.com/"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "discountAmount": "$40",
+        "cardName": "Mercado Pago",
+        "description": "Beneficio dummy en Copec pagando con Mercado Pago. Revisa condiciones y estaciones adheridas.",
+        "offerURL": "https://www.copec.cl/"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "discountAmount": "$25",
+        "cardName": "Tenpo",
+        "description": "Promoción de domingo en Shell con Tenpo. Sujeta a tope y disponibilidad de campaña.",
+        "offerURL": "https://www.shell.cl/"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "discountAmount": "$15",
+        "cardName": "Mach",
+        "description": "Descuento de prueba para domingo en Aramco pagando con Mach. Revisa condiciones del beneficio.",
+        "offerURL": "https://www.aramco.com/"
+      }
+    ]
+  }
+}
