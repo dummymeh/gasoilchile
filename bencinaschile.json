@@ -1,6 +1,32 @@
 {
   "month": 3,
   "discounts": {
+    "everyday": [
+    {
+      "stationAssetName": "copec",
+      "stationName": "Copec",
+      "discountAmount": "$50",
+      "cardName": "Banco Estado",
+      "description": "Descuento disponible todos los días en estaciones Copec pagando con Banco Estado. Revisa topes y condiciones.",
+      "offerURL": "https://www.copec.cl/"
+    },
+    {
+      "stationAssetName": "shell",
+      "stationName": "Shell",
+      "discountAmount": "$40",
+      "cardName": "Santander",
+      "description": "Beneficio permanente en Shell para clientes Santander. Válido en estaciones adheridas todos los días.",
+      "offerURL": "https://www.shell.cl/"
+    },
+    {
+      "stationAssetName": "aramco",
+      "stationName": "Aramco",
+      "discountAmount": "$30",
+      "cardName": "Falabella",
+      "description": "Promoción sin restricción de día en Aramco con medios de pago Falabella.",
+      "offerURL": "https://www.aramco.com/"
+    }
+  ],
     "monday": [
       {
         "stationAssetName": "copec",
