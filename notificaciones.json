@@ -1,0 +1,16 @@
+{
+  "notifications": [
+    {
+      "id": "notif-001",
+      "title": "Nuevo descuento disponible",
+      "description": "Ya puedes revisar una nueva oferta cargada en la app para hoy.",
+      "link": "https://www.copec.cl/"
+    },
+    {
+      "id": "notif-002",
+      "title": "Promoción destacada",
+      "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
+      "link": "https://www.bancoestado.cl/"
+    }
+  ]
+}
