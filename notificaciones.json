@@ -4,7 +4,8 @@
       "id": "notif-001",
       "title": "Nuevo descuento disponible",
       "description": "Ya puedes revisar una nueva oferta cargada en la app para hoy.",
-      "link": "https://www.copec.cl/"
+      "link": "https://www.copec.cl/",
+      "stationAssetName": "copec"
     },
     {
       "id": "notif-002",
