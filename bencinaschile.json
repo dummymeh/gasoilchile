@@ -357,7 +357,7 @@
       {
         "stationAssetName": "shell",
         "stationName": "Shell",
-        "issuerAssetName": "araucania",
+        "issuerAssetName": "araucana",
         "cardName": "La Araucana",
         "discountAmount": "$30/L",
         "validityLabel": "Válido los sábados",
