@@ -5,7 +5,7 @@
       {
         "stationAssetName": "copec",
         "stationName": "Copec",
-        "discountAmount": "$50",
+        "discountAmount": "CASHBACK",
         "cardName": "Banco Estado",
         "validityLabel": "Válido todos los días",
         "description": "Descuento disponible todos los días en estaciones Copec pagando con Banco Estado. Revisa topes y condiciones.",
