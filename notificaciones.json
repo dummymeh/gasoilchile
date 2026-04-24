@@ -1,35 +1,39 @@
 {
   "notifications": [
     {
-      "id": "notif-cdd100",
+      "id": "notif-cdd98",
       "title": "Nuevo descuento disponible",
       "description": "Ya puedes revisar una nueva oferta cargada en la app para hoy.",
       "link": "https://www.copec.cl/",
       "stationAssetName": "shell"
     },
     {
-      "id": "notif-cdd123",
+      "id": "notif-cdd3",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
-      "link": "https://www.bancoestado.cl/"
+      "link": "https://www.bancoestado.cl/",
+      "stationAssetName": "aramco"
     },
     {
-      "id": "notif-444",
+      "id": "notif-cds1",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
-      "link": ""
+      "link": "",
+      "stationAssetName": ""
     },
-     {
-      "id": "notif-0002034",
+    {
+      "id": "notif-000034",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
-      "link": ""
+      "link": "",
+      "stationAssetName": "copec"
     },
-     {
-      "id": "notif-pous9asd",
+    {
+      "id": "notif-pousasd",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
-      "link": ""
+      "link": "",
+      "stationAssetName": ""
     }
   ]
 }
