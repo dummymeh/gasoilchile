@@ -12,6 +12,12 @@
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "https://www.bancoestado.cl/"
+    },
+    {
+      "id": "notif-007",
+      "title": "Promoción destacada",
+      "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
+      "link": ""
     }
   ]
 }
