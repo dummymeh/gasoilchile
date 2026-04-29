@@ -165,8 +165,8 @@
         "cardName": "Scotiabank",
         "discountAmount": "Hasta $100",
         "validityLabel": "Miércoles",
-        "description": "Hasta $100 de descuento por litro al pagar con tarjetas de crédito Visa Scotiabank en la App Copec. Gold: $25 por litro; Platinum y Signature: $50 por litro; Infinite y Singular Signature: $75 por litro; Singular, Singular Infinite y Wealth Management: $100 por litro.",
-        "offerURL": "https://www.copec.cl/"
+        "description": "Descuento diferenciado por tipo de tarjeta: $25 planitum y Gold, $50 Visa Scotia Signature, $75 Visa Scotia Infinite y $100 Singular. Descuento aplica automáticamente al momento del pago en la app.",
+        "offerURL": "https://ww2.copec.cl/personas/promociones/scotiabankttps://www.copec.cl/"
       },
       {
         "stationAssetName": "copec",
