@@ -8,7 +8,7 @@
         "issuerAssetName": "copecpay",
         "cardName": "Copec Pay",
         "discountAmount": "$10",
-        "validityLabel": "Válido todos los días",
+        "validityLabel": "Todos los días",
         "description": "$10 de descuento por litro de combustible al pagar con Copec Pay en la App Copec. Además, acumulas 50% extra de Puntos Full.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -18,7 +18,7 @@
         "issuerAssetName": "cajalosandes",
         "cardName": "Caja Los Andes",
         "discountAmount": "$15",
-        "validityLabel": "Válido todos los días",
+        "validityLabel": "Todos los días",
         "description": "$15 de descuento por litro de combustible para afiliados a Caja Los Andes que paguen a través de la App Copec. Tope de un uso mensual por usuario.",
         "offerURL": "https://www.copec.cl/"
       }
@@ -30,7 +30,7 @@
         "issuerAssetName": "cencosud",
         "cardName": "Cencosud Scotiabank Mastercard",
         "discountAmount": "$100",
-        "validityLabel": "Válido los lunes",
+        "validityLabel": "Lunes",
         "description": "$100 de descuento por litro de combustible al pagar con la tarjeta Cencosud Scotiabank Black. Con tarjetas Clásica y Platinum el beneficio es de $50 por litro.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -40,7 +40,7 @@
         "issuerAssetName": "consorcio",
         "cardName": "Banco Consorcio",
         "discountAmount": "$150",
-        "validityLabel": "Válido los lunes",
+        "validityLabel": "Lunes",
         "description": "$150 de descuento por litro de combustible al pagar con tarjetas de crédito Banco Consorcio a través de la App Aramco Estaciones. Tope de $10.000.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -50,7 +50,7 @@
         "issuerAssetName": "mercadopago",
         "cardName": "Mercado Pago",
         "discountAmount": "$100",
-        "validityLabel": "Válido los lunes",
+        "validityLabel": "Lunes",
         "description": "$100 de descuento por litro al pagar con Mercado Pago a través de la App Shell. Válido por una transacción al mes con tope de $4.000 de rebaja.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -60,7 +60,7 @@
         "issuerAssetName": "jumboprime",
         "cardName": "Jumbo Prime",
         "discountAmount": "$100",
-        "validityLabel": "Válido los lunes",
+        "validityLabel": "Lunes",
         "description": "$100 de descuento por litro de combustible para usuarios Jumbo Prime. Tope de 100 litros.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -70,7 +70,7 @@
         "issuerAssetName": "amuch",
         "cardName": "Municipalidades adheridas",
         "discountAmount": "$30",
-        "validityLabel": "Válido los lunes",
+        "validityLabel": "Lunes",
         "description": "$30 de descuento por litro para vecinos de municipios adheridos a la promoción AMUCH.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -80,7 +80,7 @@
         "issuerAssetName": "cajalosandes",
         "cardName": "Caja Los Andes",
         "discountAmount": "$50",
-        "validityLabel": "Válido los lunes y martes",
+        "validityLabel": "Lunes y martes",
         "description": "Los afiliados a Caja Los Andes pueden recibir $50 de descuento por cada litro de bencina los lunes y martes en Aramco.",
         "offerURL": "https://www.aramco.cl/"
       }
@@ -92,7 +92,7 @@
         "issuerAssetName": "cajalosandes",
         "cardName": "Caja Los Andes",
         "discountAmount": "$50",
-        "validityLabel": "Válido los lunes y martes",
+        "validityLabel": "Lunes y martes",
         "description": "Los afiliados a Caja Los Andes pueden recibir $50 de descuento por cada litro de bencina los lunes y martes en Aramco.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -102,7 +102,7 @@
         "issuerAssetName": "amuch",
         "cardName": "Municipalidades adheridas",
         "discountAmount": "$15",
-        "validityLabel": "Válido los martes",
+        "validityLabel": "Martes",
         "description": "Los vecinos de comunas adheridas tienen $15 de descuento por litro de bencina. Deben indicar su RUT antes de realizar la recarga.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -112,7 +112,7 @@
         "issuerAssetName": "bancointernacional",
         "cardName": "Banco Internacional",
         "discountAmount": "$100",
-        "validityLabel": "Válido los martes",
+        "validityLabel": "Martes",
         "description": "$100 de descuento por litro de combustible al pagar con tarjetas de crédito Mastercard Clásica, Gold y Black del Banco Internacional asociadas a la App Copec.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -122,7 +122,7 @@
         "issuerAssetName": "itau",
         "cardName": "Itaú Legend",
         "discountAmount": "$100",
-        "validityLabel": "Válido los martes",
+        "validityLabel": "Martes",
         "description": "$100 de descuento por litro de combustible al pagar con la tarjeta Itaú Legend registrada en la App Copec. Se debe obtener un código en Itaú Beneficios e ingresarlo en la app.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -132,7 +132,7 @@
         "issuerAssetName": "liderbci",
         "cardName": "Lider Bci",
         "discountAmount": "$100",
-        "validityLabel": "Válido los martes",
+        "validityLabel": "Martes",
         "description": "$100 de descuento por litro de combustible al pagar en la App Shell con tarjeta Lider Bci. Límite de $4.000 por carga, un uso diario y máximo dos al mes.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -142,7 +142,7 @@
         "issuerAssetName": "mercadopago",
         "cardName": "Mercado Pago",
         "discountAmount": "$50",
-        "validityLabel": "Válido los martes",
+        "validityLabel": "Martes",
         "description": "$50 de descuento por litro de combustible al pagar con tarjeta de prepago Mercado Pago. Tope de $5.000 mensuales.",
         "offerURL": "https://www.aramco.cl/"
       }
@@ -154,7 +154,7 @@
         "issuerAssetName": "bancodechile",
         "cardName": "Banco de Chile",
         "discountAmount": "$100",
-        "validityLabel": "Válido los miércoles",
+        "validityLabel": "Miércoles",
         "description": "Los miércoles de abril se puede obtener $100 de descuento al pagar con tarjetas de crédito del Banco de Chile en la App Shell. Tope de una carga diaria de máximo 70 litros y dos usos mensuales.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -164,7 +164,7 @@
         "issuerAssetName": "scotia",
         "cardName": "Scotiabank",
         "discountAmount": "Hasta $100",
-        "validityLabel": "Válido los miércoles",
+        "validityLabel": "Miércoles",
         "description": "Hasta $100 de descuento por litro al pagar con tarjetas de crédito Visa Scotiabank en la App Copec. Gold: $25 por litro; Platinum y Signature: $50 por litro; Infinite y Singular Signature: $75 por litro; Singular, Singular Infinite y Wealth Management: $100 por litro.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -174,7 +174,7 @@
         "issuerAssetName": "automovilclub",
         "cardName": "Automóvil Club",
         "discountAmount": "$50",
-        "validityLabel": "Válido los miércoles",
+        "validityLabel": "Miércoles",
         "description": "$50 de descuento por litro para nuevos socios de Automóvil Club. Requiere cupón.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -184,7 +184,7 @@
         "issuerAssetName": "ripley",
         "cardName": "Banco Ripley",
         "discountAmount": "Hasta $150",
-        "validityLabel": "Válido los miércoles",
+        "validityLabel": "Miércoles",
         "description": "Hasta $150 de descuento por litro de combustible al pagar con tarjeta de crédito o débito Banco Ripley en la App Aramco. Tope de $8.000 de rebaja al mes.",
         "offerURL": "https://www.aramco.cl/"
       }
@@ -196,7 +196,7 @@
         "issuerAssetName": "abcvisa",
         "cardName": "Abc Visa",
         "discountAmount": "$200",
-        "validityLabel": "Válido los jueves",
+        "validityLabel": "Jueves",
         "description": "$200 de descuento por litro de combustible con tarjeta de crédito Abc Visa en la App Aramco Estaciones. Tope de $10.000 al mes.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -206,7 +206,7 @@
         "issuerAssetName": "coopeuch",
         "cardName": "Coopeuch",
         "discountAmount": "Hasta $200",
-        "validityLabel": "Válido los jueves",
+        "validityLabel": "Jueves",
         "description": "$200 de descuento por litro al pagar con tarjeta de crédito Coopeuch a través de la App Copec. Clientes con tarjeta de débito acceden a $100 de descuento por litro.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -216,7 +216,7 @@
         "issuerAssetName": "bci",
         "cardName": "BCI",
         "discountAmount": "7%",
-        "validityLabel": "Válido los jueves",
+        "validityLabel": "Jueves",
         "description": "7% de cashback al pagar con tarjetas de crédito Bci a través de la App Copec. Tope de $7.000 diarios de cashback por cliente.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -226,7 +226,7 @@
         "issuerAssetName": "dale",
         "cardName": "Dale Coopeuch",
         "discountAmount": "$100",
-        "validityLabel": "Válido los jueves",
+        "validityLabel": "Jueves",
         "description": "$100 de cashback por cada litro de bencina al pagar con tarjeta Dale Coopeuch. Tope de $8.000 mensuales.",
         "offerURL": "https://www.copec.cl/"
       }
@@ -238,7 +238,7 @@
         "issuerAssetName": "tenpo",
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
-        "validityLabel": "Válido los viernes",
+        "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -248,7 +248,7 @@
         "issuerAssetName": "tenpo",
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
-        "validityLabel": "Válido los viernes",
+        "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -258,7 +258,7 @@
         "issuerAssetName": "tenpo",
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
-        "validityLabel": "Válido los viernes",
+        "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -268,7 +268,7 @@
         "issuerAssetName": "rutpay",
         "cardName": "Rutpay BancoEstado",
         "discountAmount": "$100",
-        "validityLabel": "Válido los viernes",
+        "validityLabel": "Viernes",
         "description": "$100 de descuento por litro de combustible en Copec al pagar desde Rutpay de BancoEstado. Disponible en sucursales habilitadas y con tope de 50 litros por carga.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -278,7 +278,7 @@
         "issuerAssetName": "cajalosandes",
         "cardName": "Caja Los Andes",
         "discountAmount": "$15",
-        "validityLabel": "Válido los viernes",
+        "validityLabel": "Viernes",
         "description": "Los afiliados a Caja Los Andes pueden recibir $15 de descuento por cada litro de bencina los viernes en Aramco.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -288,7 +288,7 @@
         "issuerAssetName": "santanderconsumer",
         "cardName": "Santander Consumer",
         "discountAmount": "$100",
-        "validityLabel": "Válido viernes, sábado y domingo",
+        "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
         "offerURL": "https://www.copec.cl/"
       }
@@ -300,7 +300,7 @@
         "issuerAssetName": "santanderconsumer",
         "cardName": "Santander Consumer",
         "discountAmount": "$100",
-        "validityLabel": "Válido viernes, sábado y domingo",
+        "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -310,7 +310,7 @@
         "issuerAssetName": "mach",
         "cardName": "MACHBANK",
         "discountAmount": "$100",
-        "validityLabel": "Válido los sábados",
+        "validityLabel": "Sábados",
         "description": "$100 de ahorro por cada litro de combustible al pagar con tarjeta de crédito MACHBANK a través de la App Copec.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -320,7 +320,7 @@
         "issuerAssetName": "sbpay",
         "cardName": "SBpay",
         "discountAmount": "$150",
-        "validityLabel": "Válido los sábados",
+        "validityLabel": "Sábados",
         "description": "$150 de descuento por litro de combustible pagando con tarjeta de crédito SBpay Visa por medio de la App Aramco Estaciones. Tope de $10.000. Quienes paguen con tarjeta física tendrán $100 de rebaja por litro.",
         "offerURL": "https://www.aramco.cl/"
       },
@@ -330,7 +330,7 @@
         "issuerAssetName": "losheroes",
         "cardName": "Los Héroes",
         "discountAmount": "$300",
-        "validityLabel": "Válido los sábados",
+        "validityLabel": "Sábados",
         "description": "$300 de cashback por litro al pagar con tarjeta prepago Los Héroes. Tope de $5.000 de cashback mensual.",
         "offerURL": "https://www.shell.cl/"
       }
@@ -342,7 +342,7 @@
         "issuerAssetName": "santanderconsumer",
         "cardName": "Santander Consumer",
         "discountAmount": "$100",
-        "validityLabel": "Válido viernes, sábado y domingo",
+        "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -352,7 +352,7 @@
         "issuerAssetName": "bice",
         "cardName": "Banco BICE",
         "discountAmount": "$100",
-        "validityLabel": "Válido los domingos",
+        "validityLabel": "Domingos",
         "description": "$100 de rebaja por litro de combustible al pagar en la App Copec con tarjeta de crédito Limitless del Banco BICE.",
         "offerURL": "https://www.copec.cl/"
       },
@@ -362,7 +362,7 @@
         "issuerAssetName": "bice",
         "cardName": "Banco BICE",
         "discountAmount": "$100",
-        "validityLabel": "Válido los domingos",
+        "validityLabel": "Domingos",
         "description": "$100 de descuento por litro de combustible en la App Shell pagando con tarjetas de crédito Banco BICE. Solo para una carga mensual con tope de $5.000 de ahorro.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -372,7 +372,7 @@
         "issuerAssetName": "security",
         "cardName": "Banco Security",
         "discountAmount": "$100",
-        "validityLabel": "Válido los domingos",
+        "validityLabel": "Domingos",
         "description": "$100 de descuento por litro al pagar con tarjeta de crédito Security. Válido para una carga al mes de hasta 50 litros y tope de $5.000 de ahorro.",
         "offerURL": "https://www.shell.cl/"
       },
@@ -382,7 +382,7 @@
         "issuerAssetName": "spin",
         "cardName": "SPIN",
         "discountAmount": "$150",
-        "validityLabel": "Válido los domingos",
+        "validityLabel": "Domingos",
         "description": "$150 de descuento por litro de combustible pagando con tarjeta Spin Visa. Tope de $10.000 al mes.",
         "offerURL": "https://www.aramco.cl/"
       }
