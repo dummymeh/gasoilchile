@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": "hellosdos",
-      "title": "Nuevo descuento disponible",
+      "title": "Holiiiiii",
       "description": "Ya puedes revisar una nueva oferta cargada en la app para hoy.",
       "link": "https://www.copec.cl/",
       "stationAssetName": "shell"
