@@ -1,5 +1,5 @@
 {
-  "month": 4,
+  "month": 5,
   "discounts": {
     "everyday": [
       {
@@ -19,8 +19,8 @@
         "cardName": "Caja Los Andes",
         "discountAmount": "$15",
         "validityLabel": "Todos los días",
-        "description": "$15 de descuento por litro de combustible para afiliados a Caja Los Andes que paguen a través de la App Copec. Tope de un uso mensual por usuario.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "description": "$15 de descuento por litro de combustible para afiliados a Caja Los Andes. Tope de un uso mensual por usuario. Se saca cupón",
+        "offerURL": "https://masbeneficios.cajalosandes.cl/turismo-y-tiempo-libre-convenio?beneficio=copec-desc-15-dcto/lt&idc=lo6&idb=7gO"
       }
     ],
     "monday": [
@@ -42,7 +42,7 @@
         "discountAmount": "$150",
         "validityLabel": "Lunes",
         "description": "$150 de descuento por litro de combustible al pagar con tarjetas de crédito Banco Consorcio a través de la App Aramco Estaciones. Tope de $10.000.",
-        "offerURL": "https://www.aramco.cl/"
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       },
       {
         "stationAssetName": "shell",
@@ -71,31 +71,11 @@
         "cardName": "Municipalidades adheridas",
         "discountAmount": "$30",
         "validityLabel": "Lunes",
-        "description": "$30 de descuento por litro para vecinos de municipios adheridos a la promoción AMUCH.",
-        "offerURL": "https://www.aramco.cl/"
-      },
-      {
-        "stationAssetName": "aramco",
-        "stationName": "Aramco",
-        "issuerAssetName": "cajalosandes",
-        "cardName": "Caja Los Andes",
-        "discountAmount": "$50",
-        "validityLabel": "Lunes y martes",
-        "description": "Los afiliados a Caja Los Andes pueden recibir $50 de descuento por cada litro de bencina los lunes y martes en Aramco.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "$30 de descuento por litro para vecinos de municipios adheridos a la promoción AMUCH. Consultar en su municipalidad es con RUT",
+        "offerURL": "https://amuch.cl/amuch-lanza-descuentos-en-combustibles-con-aramco-para-enfrentar-alza-que-golpea-a-las-familias/"
       }
     ],
     "tuesday": [
-      {
-        "stationAssetName": "aramco",
-        "stationName": "Aramco",
-        "issuerAssetName": "cajalosandes",
-        "cardName": "Caja Los Andes",
-        "discountAmount": "$50",
-        "validityLabel": "Lunes y martes",
-        "description": "Los afiliados a Caja Los Andes pueden recibir $50 de descuento por cada litro de bencina los lunes y martes en Aramco.",
-        "offerURL": "https://www.aramco.cl/"
-      },
       {
         "stationAssetName": "aramco",
         "stationName": "Aramco",
@@ -103,8 +83,8 @@
         "cardName": "Municipalidades adheridas",
         "discountAmount": "$15",
         "validityLabel": "Martes",
-        "description": "Los vecinos de comunas adheridas tienen $15 de descuento por litro de bencina. Deben indicar su RUT antes de realizar la recarga.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "Los vecinos de comunas adheridas tienen $15 de descuento por litro de bencina. Consultar en su municipalidad es con RUT",
+        "offerURL": "https://amuch.cl/amuch-lanza-descuentos-en-combustibles-con-aramco-para-enfrentar-alza-que-golpea-a-las-familias/"
       },
       {
         "stationAssetName": "copec",
@@ -144,7 +124,7 @@
         "discountAmount": "$50",
         "validityLabel": "Martes",
         "description": "$50 de descuento por litro de combustible al pagar con tarjeta de prepago Mercado Pago. Tope de $5.000 mensuales.",
-        "offerURL": "https://www.aramco.cl/"
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       }
     ],
     "wednesday": [
@@ -185,8 +165,8 @@
         "cardName": "Banco Ripley",
         "discountAmount": "Hasta $150",
         "validityLabel": "Miércoles",
-        "description": "Hasta $150 de descuento por litro de combustible al pagar con tarjeta de crédito o débito Banco Ripley en la App Aramco. Tope de $8.000 de rebaja al mes.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "Hasta $150 de descuento por litro de combustible al pagar con tarjeta de crédito o débito Banco Ripley en la App Aramco. Topes de descuento: $8.000 por titular al mes.",
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       }
     ],
     "thursday": [
@@ -197,8 +177,8 @@
         "cardName": "Abc Visa",
         "discountAmount": "$200",
         "validityLabel": "Jueves",
-        "description": "$200 de descuento por litro de combustible con tarjeta de crédito Abc Visa en la App Aramco Estaciones. Tope de $10.000 al mes.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "$200 de descuento por litro de combustible con tarjeta de crédito Abc Visa en la App Aramco. Tope de descuento: $10.000 por titular al mes.",
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       },
       {
         "stationAssetName": "copec",
@@ -259,8 +239,8 @@
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
         "validityLabel": "Viernes",
-        "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "Hasta $300 de cashback por litro. El cashback (tenpesos) puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos veces al mes.",
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       },
       {
         "stationAssetName": "copec",
@@ -279,8 +259,8 @@
         "cardName": "Caja Los Andes",
         "discountAmount": "$15",
         "validityLabel": "Viernes",
-        "description": "Los afiliados a Caja Los Andes pueden recibir $15 de descuento por cada litro de bencina los viernes en Aramco.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "Los afiliados a Caja Los Andes pueden recibir $15 de descuento por cada litro de bencina los viernes en Aramco.Se debe dictar RUT",
+        "offerURL": "https://masbeneficios.cajalosandes.cl/grandes-beneficios-para-pensionados-convenio?beneficio=aramco-desc-15/lt-de-dcto&idc=no7&idb=BMX"
       },
       {
         "stationAssetName": "copec",
@@ -321,8 +301,8 @@
         "cardName": "SBpay",
         "discountAmount": "$150",
         "validityLabel": "Sábados",
-        "description": "$150 de descuento por litro de combustible pagando con tarjeta de crédito SBpay Visa por medio de la App Aramco Estaciones. Tope de $10.000. Quienes paguen con tarjeta física tendrán $100 de rebaja por litro.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "$150 de descuento por litro de combustible pagando con tarjeta de crédito SBpay Visa por medio de la App Aramco Estaciones. Tope de $10.000. Si con tarjeta física son $100 de rebaja por litro.",
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       },
       {
         "stationAssetName": "shell",
@@ -383,8 +363,8 @@
         "cardName": "SPIN",
         "discountAmount": "$150",
         "validityLabel": "Domingos",
-        "description": "$150 de descuento por litro de combustible pagando con tarjeta Spin Visa. Tope de $10.000 al mes.",
-        "offerURL": "https://www.aramco.cl/"
+        "description": "$150 de descuento por litro pagando con tarjeta Spin Visa. Tope de $10.000 al mes. El dinero será abonado en el próximo estado de cuenta.",
+        "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       }
     ]
   }
