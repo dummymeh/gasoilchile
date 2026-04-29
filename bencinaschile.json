@@ -215,7 +215,7 @@
         "stationName": "Copec",
         "issuerAssetName": "bci",
         "cardName": "BCI",
-        "discountAmount": "7% cashback",
+        "discountAmount": "7%",
         "validityLabel": "Válido los jueves",
         "description": "7% de cashback al pagar con tarjetas de crédito Bci a través de la App Copec. Tope de $7.000 diarios de cashback por cliente.",
         "offerURL": "https://www.copec.cl/"
@@ -225,7 +225,7 @@
         "stationName": "Copec",
         "issuerAssetName": "dale",
         "cardName": "Dale Coopeuch",
-        "discountAmount": "$100/L cashback",
+        "discountAmount": "$100/L",
         "validityLabel": "Válido los jueves",
         "description": "$100 de cashback por cada litro de bencina al pagar con tarjeta Dale Coopeuch. Tope de $8.000 mensuales.",
         "offerURL": "https://www.copec.cl/"
@@ -237,7 +237,7 @@
         "stationName": "Shell",
         "issuerAssetName": "tenpo",
         "cardName": "Tenpo",
-        "discountAmount": "$50 a $300/L cashback",
+        "discountAmount": "$Hasta $300/L",
         "validityLabel": "Válido los viernes",
         "description": "Entre $50 y $300 de cashback por litro de combustible según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
         "offerURL": "https://www.shell.cl/"
@@ -257,7 +257,7 @@
         "stationName": "Aramco",
         "issuerAssetName": "tenpo",
         "cardName": "Tenpo",
-        "discountAmount": "$50 a $300/L cashback",
+        "discountAmount": "Hasta $300/L",
         "validityLabel": "Válido los viernes",
         "description": "Entre $50 y $300 de cashback por litro de combustible según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
         "offerURL": "https://www.aramco.cl/"
