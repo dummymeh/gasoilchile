@@ -27,6 +27,16 @@
       {
         "stationAssetName": "copec",
         "stationName": "Copec",
+        "issuerAssetName": "jumboprime",
+        "cardName": "Jumbo Prime",
+        "discountAmount": "$100",
+        "validityLabel": "Lunes",
+        "description": "$100 de descuento por litro de combustible para usuarios Jumbo Prime. Tope de 100 litros.",
+        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+      },
+      {
+        "stationAssetName": "copec",
+        "stationName": "Copec",
         "issuerAssetName": "cencosud",
         "cardName": "Cencosud Scotiabank",
         "discountAmount": "$100",
@@ -55,16 +65,6 @@
         "offerURL": "https://www.shell.cl/"
       },
       {
-        "stationAssetName": "copec",
-        "stationName": "Copec",
-        "issuerAssetName": "jumboprime",
-        "cardName": "Jumbo Prime",
-        "discountAmount": "$100",
-        "validityLabel": "Lunes",
-        "description": "$100 de descuento por litro de combustible para usuarios Jumbo Prime. Tope de 100 litros.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
-      },
-      {
         "stationAssetName": "aramco",
         "stationName": "Aramco",
         "issuerAssetName": "amuch",
@@ -77,14 +77,14 @@
     ],
     "tuesday": [
       {
-        "stationAssetName": "aramco",
-        "stationName": "Aramco",
-        "issuerAssetName": "amuch",
-        "cardName": "Municipalidades adheridas",
-        "discountAmount": "$15",
-        "validityLabel": "Martes",
-        "description": "Los vecinos de comunas adheridas tienen $15 de descuento por litro de bencina. Consultar en su municipalidad es con RUT",
-        "offerURL": "https://amuch.cl/amuch-lanza-descuentos-en-combustibles-con-aramco-para-enfrentar-alza-que-golpea-a-las-familias/"
+        "stationAssetName": "copec",
+        "stationName": "Copec",
+        "issuerAssetName": "rutpay",
+        "cardName": "Rutpay BancoEstado",
+        "discountAmount": "$100",
+        "validityLabel": "Viernes",
+        "description": "$100 de descuento por litro de combustible en Copec al pagar desde Rutpay de BancoEstado. Disponible en sucursales habilitadas y con tope de 50 litros por carga.",
+        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
       },
       {
         "stationAssetName": "copec",
@@ -125,6 +125,16 @@
         "validityLabel": "Martes",
         "description": "$50 de descuento por litro de combustible al pagar con tarjeta de prepago Mercado Pago. Tope de $5.000 mensuales.",
         "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
+      },
+      {
+        "stationAssetName": "aramco",
+        "stationName": "Aramco",
+        "issuerAssetName": "amuch",
+        "cardName": "Municipalidades adheridas",
+        "discountAmount": "$15",
+        "validityLabel": "Martes",
+        "description": "Los vecinos de comunas adheridas tienen $15 de descuento por litro de bencina. Consultar en su municipalidad es con RUT",
+        "offerURL": "https://amuch.cl/amuch-lanza-descuentos-en-combustibles-con-aramco-para-enfrentar-alza-que-golpea-a-las-familias/"
       }
     ],
     "wednesday": [
@@ -241,16 +251,6 @@
         "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback (tenpesos) puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos veces al mes.",
         "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
-      },
-      {
-        "stationAssetName": "copec",
-        "stationName": "Copec",
-        "issuerAssetName": "rutpay",
-        "cardName": "Rutpay BancoEstado",
-        "discountAmount": "$100",
-        "validityLabel": "Viernes",
-        "description": "$100 de descuento por litro de combustible en Copec al pagar desde Rutpay de BancoEstado. Disponible en sucursales habilitadas y con tope de 50 litros por carga.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
       },
       {
         "stationAssetName": "aramco",
