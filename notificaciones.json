@@ -1,39 +1,49 @@
 {
   "notifications": [
     {
-      "id": "not-010998",
+      "id": "not-010998-test-001",
       "title": "$30 x Litro jelou",
-      "description": "Con cupón CUPON30DCTO en app copec tienen $30 por litro",
+      "description": "Con cupón CUPON30DCTO en app Copec tienen $30 por litro",
       "link": "https://ww2.copec.cl/personas/promociones/cupones-app-copec-y-full",
-      "stationAssetName": "copec"
+      "stationAssetName": "copec",
+      "createdAt": "2026-05-01T18:00:00Z",
+      "expiresAt": null
     },
     {
-      "id": "notif-BC656ds555",
+      "id": "notif-BC656ds555-test-002",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "https://www.bancoestado.cl/",
-      "stationAssetName": "aramco"
+      "stationAssetName": "aramco",
+      "createdAt": "2026-05-01T18:05:00Z",
+      "expiresAt": null
     },
     {
-      "id": "notif-B6C56565656ss5",
+      "id": "notif-B6C56565656ss5-test-003",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
-      "stationAssetName": ""
+      "stationAssetName": "",
+      "createdAt": "2026-05-01T18:10:00Z",
+      "expiresAt": null
     },
     {
-      "id": "notif-B65C65ss65",
+      "id": "notif-B65C65ss65-test-004",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
-      "stationAssetName": "copec"
+      "stationAssetName": "copec",
+      "createdAt": "2026-05-01T18:15:00Z",
+      "expiresAt": null
     },
     {
-      "id": "notif-B655556ddfdf565",
+      "id": "notif-B655556ddfdf565-test-005",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
-      "stationAssetName": ""
+      "stationAssetName": "",
+      "createdAt": "2026-05-01T18:20:00Z",
+      "expiresAt": null
     }
   ]
 }
