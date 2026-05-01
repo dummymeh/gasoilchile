@@ -32,7 +32,7 @@
         "discountAmount": "$100",
         "validityLabel": "Lunes",
         "description": "$100 de descuento por litro de combustible para usuarios Jumbo Prime. Tope de 100 litros.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://jumboprime.cl/"
       },
       {
         "stationAssetName": "copec",
@@ -41,8 +41,8 @@
         "cardName": "Cencosud Scotiabank",
         "discountAmount": "$100",
         "validityLabel": "Lunes",
-        "description": "$100 de descuento por litro de combustible al pagar con la tarjeta Cencosud Scotiabank Black. Con tarjetas Clásica y Platinum el beneficio es de $50 por litro.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "description": "$100 de descuento por litro de combustible al pagar con la tarjeta Cencosud Scotiabank."
+        "offerURL": "https://www.tarjetacencosud.cl/publico/beneficios/landing/copec"
       },
       {
         "stationAssetName": "aramco",
@@ -114,7 +114,7 @@
         "discountAmount": "$100",
         "validityLabel": "Martes",
         "description": "$100 de descuento por litro de combustible al pagar en la App Shell con tarjeta Lider Bci. Límite de $4.000 por carga, un uso diario y máximo dos al mes.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.liderbci.cl/descuentos"
       },
       {
         "stationAssetName": "aramco",
@@ -145,8 +145,8 @@
         "cardName": "Banco de Chile",
         "discountAmount": "$100",
         "validityLabel": "Miércoles",
-        "description": "Los miércoles de abril se puede obtener $100 de descuento al pagar con tarjetas de crédito del Banco de Chile en la App Shell. Tope de una carga diaria de máximo 70 litros y dos usos mensuales.",
-        "offerURL": "https://www.shell.cl/"
+        "description": "$100 de descuento al pagar con tarjetas de crédito del Banco de Chile en la App Shell. Tope de una carga diaria de máximo 70 litros y dos usos mensuales.",
+        "offerURL": "https://sitiospublicos.bancochile.cl/personas/beneficios/detalle/shell-beneficio-miercoles"
       },
       {
         "stationAssetName": "copec",
@@ -208,7 +208,7 @@
         "discountAmount": "7%",
         "validityLabel": "Jueves",
         "description": "7% de cashback al pagar con tarjetas de crédito Bci a través de la App Copec. Tope de $7.000 diarios de cashback por cliente.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.bci.cl/beneficios/beneficios-bci/detalle/mas-kilometros-y-mas-lucas-en-tu-bolsillo-desde-app-copec.-sx48lyr"
       },
       {
         "stationAssetName": "copec",
@@ -218,7 +218,7 @@
         "discountAmount": "$100",
         "validityLabel": "Jueves",
         "description": "$100 de cashback por cada litro de bencina al pagar con tarjeta Dale Coopeuch. Tope de $8.000 mensuales.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.dalecoopeuch.cl/blog/cashback-copec384.html"
       }
     ],
     "friday": [
@@ -229,8 +229,8 @@
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
         "validityLabel": "Viernes",
-        "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
-        "offerURL": "https://www.shell.cl/"
+        "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos mensuales.",
+        "offerURL": "https://www.tenpo.cl/beneficios/apps-de-bencina-mayo"
       },
       {
         "stationAssetName": "copec",
@@ -239,8 +239,8 @@
         "cardName": "Tenpo",
         "discountAmount": "Hasta $300",
         "validityLabel": "Viernes",
-        "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos al mes.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos mensuales.",
+        "offerURL": "https://www.tenpo.cl/beneficios/apps-de-bencina-mayo"
       },
       {
         "stationAssetName": "aramco",
@@ -270,7 +270,7 @@
         "discountAmount": "$100",
         "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.santanderconsumer.cl/beneficios/nuevo-copec-bencina"
       }
     ],
     "saturday": [
@@ -282,7 +282,7 @@
         "discountAmount": "$100",
         "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.santanderconsumer.cl/beneficios/nuevo-copec-bencina"
       },
       {
         "stationAssetName": "copec",
@@ -311,8 +311,8 @@
         "cardName": "Los Héroes",
         "discountAmount": "$300",
         "validityLabel": "Sábados",
-        "description": "$300 de cashback por litro al pagar con tarjeta prepago Los Héroes. Tope de $5.000 de cashback mensual.",
-        "offerURL": "https://www.shell.cl/"
+        "description": "$300 de cashback por litro al pagar con tarjeta prepago Los Héroes. Tope de $5.000 de cashback mensual. Revisar cupón",
+        "offerURL": "https://www.heroesprepago.cl/page/daily-promo"
       }
     ],
     "sunday": [
@@ -324,7 +324,7 @@
         "discountAmount": "$100",
         "validityLabel": "Viernes, sábado y domingo",
         "description": "$100 de descuento para clientes titulares del crédito automotriz Santander Consumer con pagos al día. Tope de 70 litros por carga.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://www.santanderconsumer.cl/beneficios/nuevo-copec-bencina"
       },
       {
         "stationAssetName": "copec",
@@ -334,7 +334,7 @@
         "discountAmount": "$100",
         "validityLabel": "Domingos",
         "description": "$100 de rebaja por litro de combustible al pagar en la App Copec con tarjeta de crédito Limitless del Banco BICE.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://banco.bice.cl/personas/beneficios/copec"
       },
       {
         "stationAssetName": "shell",
@@ -344,7 +344,7 @@
         "discountAmount": "$100",
         "validityLabel": "Domingos",
         "description": "$100 de descuento por litro de combustible en la App Shell pagando con tarjetas de crédito Banco BICE. Solo para una carga mensual con tope de $5.000 de ahorro.",
-        "offerURL": "https://www.shell.cl/"
+        "offerURL": "https://banco.bice.cl/personas/beneficios/micopiloto-shell"
       },
       {
         "stationAssetName": "shell",
@@ -354,7 +354,7 @@
         "discountAmount": "$100",
         "validityLabel": "Domingos",
         "description": "$100 de descuento por litro al pagar con tarjeta de crédito Security. Válido para una carga al mes de hasta 50 litros y tope de $5.000 de ahorro.",
-        "offerURL": "https://www.shell.cl/"
+        "offerURL": "https://personas.bancosecurity.cl/beneficios/shopping-y-servicios/app-shell"
       },
       {
         "stationAssetName": "aramco",
