@@ -6,7 +6,7 @@
       "description": "Con cupón CUPON30DCTO en app Copec tienen $30 por litro",
       "link": "https://ww2.copec.cl/personas/promociones/cupones-app-copec-y-full",
       "stationAssetName": "copec",
-      "createdAt": "2026-05-01T18:00:00Z",
+      "createdAt": "2026-05-01T18:00:00-04:00",
       "expiresAt": null
     },
     {
@@ -15,7 +15,7 @@
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "https://www.bancoestado.cl/",
       "stationAssetName": "aramco",
-      "createdAt": "2026-05-01T18:05:00Z",
+      "createdAt": "2026-05-01T18:05:00-04:00",
       "expiresAt": null
     },
     {
@@ -24,7 +24,7 @@
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
       "stationAssetName": "",
-      "createdAt": "2026-05-01T18:10:00Z",
+      "createdAt": "2026-05-01T18:10:00-04:00",
       "expiresAt": null
     },
     {
@@ -33,16 +33,16 @@
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
       "stationAssetName": "copec",
-      "createdAt": "2026-05-01T18:15:00Z",
+      "createdAt": "2026-05-01T18:15:00-04:00",
       "expiresAt": null
     },
     {
-      "id": "notif-B655556ddfdf565-test-005",
+      "id": "notif-B655556ddfdf565-fdfdfdf",
       "title": "Promoción destacada",
       "description": "Banco Estado y Copec tienen una oferta activa esta semana.",
       "link": "",
       "stationAssetName": "",
-      "createdAt": "2026-05-01T18:20:00Z",
+      "createdAt": "2026-05-01T18:20:00-04:00",
       "expiresAt": null
     }
   ]
