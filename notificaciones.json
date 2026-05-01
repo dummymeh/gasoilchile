@@ -1,11 +1,11 @@
 {
   "notifications": [
     {
-      "id": "pasdslkdlssk",
-      "title": "Holidddiiiii",
-      "description": "Ya puedes revisar una nueva oferta cargada en la app para hoy.",
-      "link": "https://www.copec.cl/",
-      "stationAssetName": "shell"
+      "id": "not-01000",
+      "title": "$30 x Litro",
+      "description": "Con cupón CUPON30DCTO en app copec tienen $30 por litro",
+      "link": "https://ww2.copec.cl/personas/promociones/cupones-app-copec-y-full",
+      "stationAssetName": "copec"
     },
     {
       "id": "notif-BC656ds5",
