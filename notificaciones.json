@@ -1,5 +1,13 @@
 {
   "notifications": [
-
+    {
+      "id": "ndfdfdfd",
+      "title": "$30 x Litro",
+      "description": "Con cupón CUPON30DCTO en app Copec tienen $30 por litro",
+      "link": "https://ww2.copec.cl/personas/promociones/cupones-app-copec-y-full",
+      "stationAssetName": "copec",
+      "createdAt": "2026-05-05T17:00:00-04:00",
+      "expiresAt": null
+    },
   ]
 }
