@@ -1,5 +1,5 @@
 {
-  "month": 5,
+  "month": 7,
   "discounts": {
     "everyday": [
       {
@@ -62,7 +62,7 @@
         "discountAmount": "$100",
         "validityLabel": "Lunes",
         "description": "$100 de descuento por litro al pagar con Mercado Pago a través de la App Shell. Válido por una transacción al mes con tope de $4.000 de rebaja.",
-        "offerURL": "https://www.shell.cl/"
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       },
       {
         "stationAssetName": "aramco",
@@ -114,7 +114,7 @@
         "discountAmount": "$100",
         "validityLabel": "Martes",
         "description": "$100 de descuento por litro de combustible al pagar en la App Shell con tarjeta Lider Bci. Límite de $4.000 por carga, un uso diario y máximo dos al mes.",
-        "offerURL": "https://www.liderbci.cl/descuentos"
+        "offerURL": "https://www.liderbci.cl/descuentos/mi-copiloto"
       },
       {
         "stationAssetName": "aramco",
@@ -146,7 +146,7 @@
         "discountAmount": "$100",
         "validityLabel": "Miércoles",
         "description": "$100 de descuento al pagar con tarjetas de crédito del Banco de Chile en la App Shell. Tope de una carga diaria de máximo 70 litros y dos usos mensuales.",
-        "offerURL": "https://sitiospublicos.bancochile.cl/personas/beneficios/detalle/shell-beneficio-miercoles"
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       },
       {
         "stationAssetName": "copec",
@@ -185,9 +185,9 @@
         "stationName": "Aramco",
         "issuerAssetName": "abcvisa",
         "cardName": "Abc Visa",
-        "discountAmount": "$200",
+        "discountAmount": "$150",
         "validityLabel": "Jueves",
-        "description": "$200 de descuento por litro de combustible con tarjeta de crédito Abc Visa en la App Aramco. Tope de descuento: $10.000 por titular al mes.",
+        "description": "$150 de descuento por litro de combustible con tarjeta de crédito Abc Visa en la App Aramco. Tope de descuento: $10.000 por titular al mes.",
         "offerURL": "https://www.aramcoestaciones.cl/alianzas-y-beneficios"
       },
       {
@@ -230,7 +230,7 @@
         "discountAmount": "Hasta $300",
         "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos mensuales.",
-        "offerURL": "https://www.tenpo.cl/beneficios/apps-de-bencina-mayo"
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       },
       {
         "stationAssetName": "copec",
@@ -240,7 +240,7 @@
         "discountAmount": "Hasta $300",
         "validityLabel": "Viernes",
         "description": "Hasta $300 de cashback por litro. El cashback puede ir entre $50 y $300 por litro según campaña personalizada para cada usuario. Tope de $4.000 por carga y máximo dos usos mensuales.",
-        "offerURL": "https://www.tenpo.cl/beneficios/apps-de-bencina-mayo"
+        "offerURL": "https://ww2.copec.cl/personas/promociones/tenpo"
       },
       {
         "stationAssetName": "aramco",
@@ -259,7 +259,7 @@
         "cardName": "Caja Los Andes",
         "discountAmount": "$15",
         "validityLabel": "Viernes",
-        "description": "Los afiliados a Caja Los Andes pueden recibir $15 de descuento por cada litro de bencina los viernes en Aramco.Se debe dictar RUT",
+        "description": "Los afiliados a Caja Los Andes pueden recibir $15 de descuento por cada litro de bencina los viernes en Aramco. Se debe dictar RUT",
         "offerURL": "https://masbeneficios.cajalosandes.cl/grandes-beneficios-para-pensionados-convenio?beneficio=aramco-desc-15/lt-de-dcto&idc=no7&idb=BMX"
       },
       {
@@ -292,7 +292,7 @@
         "discountAmount": "$100",
         "validityLabel": "Sábados",
         "description": "$100 de ahorro por cada litro de combustible al pagar con tarjeta de crédito MACHBANK a través de la App Copec.",
-        "offerURL": "https://ww2.copec.cl/personas/promociones?f=&fields.Fecha+de+inicio%5Blte%5D=2026-04-29&fields.Fecha+de+t%C3%A9rmino%5Bgt%5D=2026-04-29"
+        "offerURL": "https://ww2.copec.cl/personas/promociones/mach"
       },
       {
         "stationAssetName": "aramco",
@@ -313,6 +313,16 @@
         "validityLabel": "Sábados",
         "description": "$300 de cashback por litro al pagar con tarjeta prepago Los Héroes. Tope de $5.000 de cashback mensual. Revisar cupón",
         "offerURL": "https://www.heroesprepago.cl/page/daily-promo"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "issuerAssetName": "scotia",
+        "cardName": "Scotiabank",
+        "discountAmount": "Hasta $200",
+        "validityLabel": "Sábados",
+        "description": "Descuento por litro de combustible según el tipo de tarjeta: $100 para tarjetas Gold; $150 para tarjetas Signature y Platinum; y $200 para tarjetas Business, Singular Signature, Infinite, Singular Infinite, Singular y Wealth Management. Válido para un máximo de dos cargas mensuales.",
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       }
     ],
     "sunday": [
@@ -344,7 +354,7 @@
         "discountAmount": "$100",
         "validityLabel": "Domingos",
         "description": "$100 de descuento por litro de combustible en la App Shell pagando con tarjetas de crédito Banco BICE. Solo para una carga mensual con tope de $5.000 de ahorro.",
-        "offerURL": "https://banco.bice.cl/personas/beneficios/micopiloto-shell"
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       },
       {
         "stationAssetName": "shell",
@@ -354,7 +364,7 @@
         "discountAmount": "$100",
         "validityLabel": "Domingos",
         "description": "$100 de descuento por litro al pagar con tarjeta de crédito Security. Válido para una carga al mes de hasta 50 litros y tope de $5.000 de ahorro.",
-        "offerURL": "https://personas.bancosecurity.cl/beneficios/shopping-y-servicios/app-shell"
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       },
       {
         "stationAssetName": "aramco",
