@@ -219,6 +219,16 @@
         "validityLabel": "Jueves",
         "description": "$100 de cashback por cada litro de bencina al pagar con tarjeta Dale Coopeuch. Tope de $8.000 mensuales.",
         "offerURL": "https://www.dalecoopeuch.cl/blog/cashback-copec384.html"
+      },
+      {
+        "stationAssetName": "shell",
+        "stationName": "Shell",
+        "issuerAssetName": "scotia",
+        "cardName": "Scotiabank",
+        "discountAmount": "Hasta $200",
+        "validityLabel": "Jueves",
+        "description": "Descuento por litro de combustible según el tipo de tarjeta: $100 para tarjetas Gold; $150 para tarjetas Signature y Platinum; y $200 para tarjetas Business, Singular Signature, Infinite, Singular Infinite, Singular y Wealth Management. Válido para un máximo de dos cargas mensuales.",
+        "offerURL": "https://goplus.shell.cl/beneficios/"
       }
     ],
     "friday": [
@@ -314,16 +324,6 @@
         "description": "$300 de cashback por litro al pagar con tarjeta prepago Los Héroes. Tope de $5.000 de cashback mensual. Revisar cupón",
         "offerURL": "https://www.heroesprepago.cl/page/daily-promo"
       },
-      {
-        "stationAssetName": "shell",
-        "stationName": "Shell",
-        "issuerAssetName": "scotia",
-        "cardName": "Scotiabank",
-        "discountAmount": "Hasta $200",
-        "validityLabel": "Sábados",
-        "description": "Descuento por litro de combustible según el tipo de tarjeta: $100 para tarjetas Gold; $150 para tarjetas Signature y Platinum; y $200 para tarjetas Business, Singular Signature, Infinite, Singular Infinite, Singular y Wealth Management. Válido para un máximo de dos cargas mensuales.",
-        "offerURL": "https://goplus.shell.cl/beneficios/"
-      }
     ],
     "sunday": [
       {
